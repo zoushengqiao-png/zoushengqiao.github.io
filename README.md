@@ -1,2 +1,2 @@
 # zoushengqiao.github.io
-Control two balls and dodge on an endless track – challenge your reflexes!
+TwinOrbit is a minimalist parkour game that challenges your limits. You control two balls, red and blue, simultaneously, switching tracks with precise taps to avoid obstacles and match colors. The game features over 24 skins and progressively increasing difficulty levels. Simple to play yet incredibly deep, it's perfect for short bursts of fun. Download now and start your high-speed twin-ball challenge!
